@@ -14,12 +14,12 @@ public class BitOperate {
         int num1 = 10; // 00001010
         int num2 = 12; // 00001100
 
-        System.out.println(num1 & num2); // 8  00001000
-        System.out.println(num1 | num2); // 14 00001110
-        System.out.println(num1 ^ num2); // 6  00000110
-        System.out.println(~num1);      // -11 11110101 // 1을 더해서 반전
-        System.out.println(num1 << 1);  //  20 00010100 // 1이동하면 * 2 효과
-        System.out.println(num1 >> 1);   // 5  00000101 // 1이동하면 / 2 효과
+//        System.out.println(num1 & num2); // 8  00001000
+//        System.out.println(num1 | num2); // 14 00001110
+//        System.out.println(num1 ^ num2); // 6  00000110
+//        System.out.println(~num1);      // -11 11110101 // 1을 더해서 반전
+//        System.out.println(num1 << 1);  //  20 00010100 // 1이동하면 * 2 효과
+//        System.out.println(num1 >> 1);   // 5  00000101 // 1이동하면 / 2 효과
         
     }
 }

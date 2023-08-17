@@ -18,13 +18,13 @@ public class ConstClass {
             System.out.println(AGE);
         }
 //        System.out.println(AGE);
-        
+//
 //        final double TAX_RATE = 0.10; // 세율 값을 고정함
 //        Scanner sc = new Scanner(System.in); // 표준 입력(키보드 입력)을 받기 위해서 사용
 //        System.out.print("수입을 입력 하세요 : "); // 줄 바꿈을 하지 않기위해 print()사용 println()은 줄바꿈
 //        int income = sc.nextInt(); // 키보드로 부터 입력 받은 값을 정수형 변수에 대입
 //        System.out.println("당신이 내야 할 세금은 " + (income * TAX_RATE) + "입니다.");
-
+//
 //        System.out.println(KH_DOMAIN);
 //        System.out.println(PORT_NUM);
 
