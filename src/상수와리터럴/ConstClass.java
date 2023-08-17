@@ -17,7 +17,7 @@ public class ConstClass {
             AGE = 33;
             System.out.println(AGE);
         }
-//        System.out.println(AGE);
+        //System.out.println(AGE);
 //
 //        final double TAX_RATE = 0.10; // 세율 값을 고정함
 //        Scanner sc = new Scanner(System.in); // 표준 입력(키보드 입력)을 받기 위해서 사용
