@@ -29,5 +29,6 @@ public class ConditionEx1 {
             System.out.println(ch + "는 알파벳이 아닙니다.");
         }
 
+
     }
 }
