@@ -28,7 +28,8 @@ public class DataTypeClass {
         int minute = 50;
         System.out.println(hour + "시간" + minute + "분");
         
-        
+        // test
+
         //변수명
         /*사용 불가
         int 1st; 숫자가 앞에오면 안됨
