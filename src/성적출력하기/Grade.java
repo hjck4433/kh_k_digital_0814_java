@@ -28,7 +28,6 @@ public class Grade {
         //강사님 풀이
         // 입력을 받아서 정수형 변수에 대입
         // 조건문을 만드는데 우선, 0 ~ 100 사이의 정상적인 입력인지 확인
-
         while(true) {
             System.out.print("성적을 입력 하세요 : ");
             int score = sc.nextInt();
